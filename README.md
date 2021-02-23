@@ -40,5 +40,5 @@ IFTTT is used for accepting commands from google assistant which is then sent to
 * Upon supplying commands other than the predefined ones(print in this case), it will try to run the command  on the shell/command prompt.
 * The output is displayed on the screen.
 
-**Video Demonstration with explanation of technical details:**
+## **Video Demonstration with explanation of technical details:**
 * The video with  demonstration, explanation of features and technical details is here: https://drive.google.com/file/d/1d-mrXYP37CJTSuqECvjlK08azQp9kcTx/view?usp=sharing
