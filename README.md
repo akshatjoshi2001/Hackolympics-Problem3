@@ -2,7 +2,15 @@
 
 ## Problem Statement - 3 Documentation
 
-### Detailed Approach:
+### Overview
+The presented solution aims at creating a voice based command system which can be used for easily managing cloud computing systems.
+
+# Why choose this problem statement over the others?
+Typing commands on a command line is a hassle. Managing large scale cloud computing systems even more. We felt that we can make the process a bit easier using a highly flexible  Google Assistant based commanding system. 
+
+
+
+### Detailed Technical Approach:
 
 ![alt text](https://github.com/akshatjoshi2001/Hackolympics-Problem3/blob/master/solution.png?raw=true)
 
