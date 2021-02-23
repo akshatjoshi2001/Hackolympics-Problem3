@@ -2,7 +2,7 @@
 
 ## Problem Statement - 3 Documentation
 
-### Detailed Aprroach:
+### Detailed Approach:
 
 **Integrating with IFTTT**:
 
