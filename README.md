@@ -14,6 +14,8 @@ Typing commands on a command line is a hassle. Managing large scale distributed 
 ![alt text](https://github.com/akshatjoshi2001/Hackolympics-Problem3/blob/master/solution.png?raw=true)
 IFTTT is used for accepting commands from google assistant which is then sent to a public endpoint which pushes the command to a local client which will then execute the command.
 
+## Installation and Running:
+Installation and running instructions are mentioned in the Client and the Server folders.
 
 ## Detailed Technical Approach:
 
