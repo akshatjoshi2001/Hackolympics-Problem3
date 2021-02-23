@@ -19,8 +19,8 @@ IFTTT is used for accepting commands from google assistant which is then sent to
 
 **Integrating with IFTTT**:
 
-
-
+* An applet on IFTTT is created which on recieving a command from Google Assistant will call a public API Endpoint.
+* Note that this applet is not public. Hence for testing purposes one will have to manually create the applet.
 
 **Public API Endpoint**:
 * The server is coded up inside a file named **server.js** present in the directory Server.
