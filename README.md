@@ -19,6 +19,9 @@ Installation and running instructions are mentioned in the Client and the Server
 
 ## Detailed Technical Approach:
 
+**Language Used**:
+* We have used only Node.js for this project
+
 **Integrating with IFTTT**:
 
 * An applet on IFTTT is created which on recieving a command from Google Assistant will call a public API Endpoint.
