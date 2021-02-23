@@ -10,11 +10,12 @@ Typing commands on a command line is a hassle. Managing large scale distributed 
 
 
 
-## Detailed Technical Approach:
-
+## Solution:
 ![alt text](https://github.com/akshatjoshi2001/Hackolympics-Problem3/blob/master/solution.png?raw=true)
+IFTTT is used for accepting commands from google assistant which is then sent to a public endpoint which pushes the command to a local client which will then execute the command.
 
 
+## Detailed Technical Approach:
 
 **Integrating with IFTTT**:
 
