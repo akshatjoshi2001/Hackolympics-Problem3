@@ -12,6 +12,9 @@ const io = require("socket.io-client");
 const socket = io(ENDPOINT);
 
 
+
+console.log("Local client running... \n Commands will be automatically executed when recieved")
+
 // Ones command is recieved, send that command for execution to our mini SDK.
 socket.on('command',(data)=>{
 
