@@ -4,6 +4,10 @@
 
 ### Detailed Approach:
 
+![alt text](https://github.com/akshatjoshi2001/Hackolympics-Problem3/blob/master/solution.png?raw=true)
+
+
+
 **Integrating with IFTTT**:
 
 
