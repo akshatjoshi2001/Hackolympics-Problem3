@@ -9,3 +9,7 @@
 
 ## Running the mini SDK:
 * Type node cmd.js [Your command]
+* Example:
+     node cmd.js print hello world
+     
+     This will print hello world on the console
